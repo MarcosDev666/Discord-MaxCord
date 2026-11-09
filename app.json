@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "MaxCord", "slug": "maxcord", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "dark",
+    "android": { "package": "com.maxcord.app" },
+    "web": { "bundler": "metro" }
+  }
+}
